@@ -12,5 +12,5 @@ e) Setiap karyawan dari lintas departemen dapat bekerja pada satu project yang s
 buat ddl script
 2. Buatlah desain databasenya (ER-DIAGRAM) Beserta data tabelnya.
 ```
+312210207_ADITYA PUTRA WIJAYA_ER-D Perusahaan.png
 
-### Tabel database nya
